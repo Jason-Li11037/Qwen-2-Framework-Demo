@@ -1,7 +1,7 @@
 
 # Qwen2-7B_Vicon Fine-tuning for Motion Capture Analysis
 
-This repository contains the code and instructions for fine-tuning **Qwen2-7B_Vicon** using **LoRA and LlamaFactory** to analyze motion capture data from **Vicon**. The fine-tuned model provides **real-time feedback on movement patterns and injury prevention**.
+This repository contains the example code and partial instructions for fine-tuning **Qwen2-7B_Vicon** using **LoRA and LlamaFactory** to analyze motion capture data from **Vicon**. The fine-tuned model provides **real-time feedback on movement patterns and injury prevention**.
 
 ---
 
